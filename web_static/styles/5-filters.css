@@ -31,16 +31,17 @@ button:hover {
     height: 100%;
     width: 25%;
     float: left;
-    text-align: center;
 }
 
 .filters div h3 {
     font-weight: 600;
     margin: 6% auto 0;
+    text-align: center;
 }
 
 .filters div h4 {
     margin: 0 auto;
     font-weight: 400;
     font-size: 14px;
+    text-align: center;
 }
