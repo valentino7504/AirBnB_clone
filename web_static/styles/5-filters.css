@@ -24,16 +24,14 @@ button:hover {
     border-right: 1px solid #DDDDDD;
 }
 .filters div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     height: 100%;
     width: 25%;
     float: left;
+    text-align: center;
 }
 .filters div h3 {
     font-weight: 600;
-    margin: 0 auto;
+    margin: 6% auto 0;
 }
 .filters div h4 {
     margin: 0 auto;
