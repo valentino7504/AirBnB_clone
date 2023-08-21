@@ -15,7 +15,7 @@ article {
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     vertical-align: top;
-    min-height: 730px;
+    min-height: 710px;
 }
 
 .places article:nth-child(4) {
@@ -122,4 +122,8 @@ div.reviews>h2 {
 
 div.reviews h3 {
     font-size: 14px;
+}
+
+div.reviews p {
+    font-size: 12px;
 }
